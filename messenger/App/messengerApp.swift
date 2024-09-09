@@ -31,7 +31,7 @@ struct YourApp: App {
     }
   }
 }
-
+//lets try now
 
 //try and change it to again this as i dont know delegates
 //import SwiftUI
